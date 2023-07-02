@@ -42,10 +42,10 @@ a {
 }
 
 body {
-    /* background: linear-gradient(90deg, #021131, #330264); */
+   
     z-index: -999;
-    background: url(../img/bg.png);
-    /* height: 3000px; */
+    background: rgb(2, 26, 78);
+   
 }
 
 /* header start */
